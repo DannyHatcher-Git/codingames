@@ -22,6 +22,7 @@ while True:
     print("4")
 '''
 # .......... SOLUTION..........
+
 while True:
     max = 0  # Max height of a mountain
     imax = 0  # The location in the list of the max height
